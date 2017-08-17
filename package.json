@@ -1,0 +1,17 @@
+{
+  "name": "node_api",
+  "version": "1.0.0",
+  "description": "Learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rangga",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.9.7",
+    "mysql": "^2.13.0",
+    "node-mysql": "^0.4.2",
+    "restify": "^4.3.0"
+  }
+}
